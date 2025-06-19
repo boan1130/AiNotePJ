@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "676464307093",
+    "project_id": "ainotepj",
+    "storage_bucket": "ainotepj.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676464307093:android:6dbde6b3e04dcb6ed0249c",
+        "android_client_info": {
+          "package_name": "com.ld.ainotepj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBPFnHURg0gxC-kWuwO04EzI91hDXBRls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
